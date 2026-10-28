@@ -19,8 +19,8 @@ Allow: /
 User-agent: *
 Disallow: /
 
-Sitemap: https://mulgyeolmassage.netlify.app/sitemap.xml
-Sitemap: https://mulgyeolmassage.netlify.app/sitemap-hub.xml
-Sitemap: https://mulgyeolmassage.netlify.app/sitemap-area.xml
-Sitemap: https://mulgyeolmassage.netlify.app/sitemap-topic.xml
-Sitemap: https://mulgyeolmassage.netlify.app/rss.xml
+Sitemap: https://mulgyeolmassage.pages.dev/sitemap.xml
+Sitemap: https://mulgyeolmassage.pages.dev/sitemap-hub.xml
+Sitemap: https://mulgyeolmassage.pages.dev/sitemap-area.xml
+Sitemap: https://mulgyeolmassage.pages.dev/sitemap-topic.xml
+Sitemap: https://mulgyeolmassage.pages.dev/rss.xml
